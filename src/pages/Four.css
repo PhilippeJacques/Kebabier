@@ -1,0 +1,82 @@
+.apponefour{
+    position: relative;
+    background-color:  #FFF6D6;
+    width: 1440px;
+    height: 1224px;
+    
+}
+.logoone{
+    position: relative;
+width: 200px;
+height: 200px;
+left: 620px;
+top: 32px;
+
+
+background-blend-mode: darken;
+   
+}
+.montext{
+    position: relative;
+width: 489px;
+height: 44px;
+left: 575px;
+top: 1 12px;
+
+font-family: Fredoka One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+
+
+
+color: #4D0302;
+}
+
+
+
+.card{
+    position: relative;
+    max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  top: 100px;
+}
+
+.titrekebab{
+    
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/990140/download.png)   -20px -20px no-repeat;
+    -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  /* Below is not needed */
+  position:absolute;                 
+  bottom:0;                         
+  left:0; 
+width: 1505px;
+height: 265px;
+
+  display:block;
+  font-size: 200px;
+  font-family: arial;
+  text-align: center;
+  margin-top: -20px;
+  font-weight: bold;
+  letter-spacing: -25px;
+  background-size: cover;
+}
+.buttoninone{
+    position: absolute;
+width: 173px;
+height: 68px;
+left: 503px;
+top: 825px;
+display: flex;
+background: #4D0302;
+border: 1px solid #4D0302;
+box-sizing: border-box;
+border-radius: 8px;
+align-items: center;
+color: white;
+}

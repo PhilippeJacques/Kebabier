@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+        "name": "Pain",
+        "price": 3,
+        "image": "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836340/Kebab_q00uzs.png"
+      },
+      {
+        "id": 2,
+        "name": "Galette",
+        "price": 3,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836334/Galette_loh1ke.png"
+      }
+]

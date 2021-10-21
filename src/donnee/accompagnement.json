@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Salade",
+        "price": 0.5,
+        "image": "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836359/Salade_mzgm3v.png"
+      },
+      {
+        "name": "Tomates",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836425/Tomate_pvmp8a.png"
+      },
+      {
+        "name": "Oignon",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836352/Oignon_ru398b.png"
+      }
+]

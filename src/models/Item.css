@@ -1,0 +1,49 @@
+.pain{
+    position: relative;
+width: 184px;
+height: 197px;
+overflow: hidden;
+margin: 8px;
+border: 1px solid rgba(77, 3, 2, 0.24);
+box-sizing: border-box;
+border-radius: 32px;
+}
+
+.pain:active {
+    border: 6px solid rgba(77, 3, 2, 0.24);
+}
+.imagecheck{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 142px;
+
+
+background: linear-gradient(0deg, #4D0302, #4D0302);
+background-blend-mode: color, normal;
+}
+.image{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 28px;
+
+}
+.thistext{
+    position: absolute;
+width: 36px;
+height: 19px;
+right: 80px;
+top: 146px;
+
+font-family: Inconsolata;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #4D0302;
+}

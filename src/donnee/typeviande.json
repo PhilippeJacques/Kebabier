@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Viande",
+        "price": 2,
+        "image": "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836430/Viande_ve7dh4.png"
+      },
+      {
+        "name": "Tofu",
+        "price": 2,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836417/Tofu_gm7bmm.png"
+      }
+]

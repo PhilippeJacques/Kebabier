@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Blanche",
+        "price": 0.5,
+        "image": "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836381/Sauce-blanche_eubrt7.png"
+      },
+      {
+        "name": "Harissa",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836400/Sauce-harissa_jjk27a.png"
+      },
+      {
+        "name": "Andalouse",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836368/Sauce-andalouse_q2wd7o.png"
+      },
+      {
+        "name": "BBQ",
+        "price": 0.5,
+        "image": "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836375/Sauce-bbq_gufpi2.png"
+      },
+      {
+        "name": "Ketchup",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836410/Sauce-ketchup_wlnyzd.png"
+      },
+      {
+        "name": "Curry",
+        "price": 0.5,
+        "image":
+          "https://res.cloudinary.com/deqiqdtpw/image/upload/v1634836392/Sauce-curry_d1jmuo.png"
+      }
+]
